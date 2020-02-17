@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Karan Babariya's Website
+title: Karan Babariya
 
 # Short description of your site
-description: “Data beats emotions!”
+description: Data beats emotions!
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,18 +20,18 @@ description: “Data beats emotions!”
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Hello there! I'm Karan Babariya.
-
-I am a current [Masters of Management Analytics](https://www.rotman.utoronto.ca/Degrees/MastersPrograms/MMA), 2020 student at Rotman School of Management. Prior to joining Rotman, I worked as a Senior Member Technical Staff (Full Stack Web Developer) at Mentor - A Siemens Business where I was a part of product development wing of Capital Suite, driven to provide solutions to automotive industry for designing wiring harnesses in vehicles. 
-Having realized the potential of analytics and its immense benefits to the industry I carry deep interests for the field in his pockets. I am a huge fan extracting stories out of data and in my spare time I enjoy solving data science challenges for subjects that matter. I love to exploring new places and adventures, motorbiking and voluteering pet shelter."
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+  Blog: "https://karanbabariya.github.io/"
+  Projects: 
+    - Yelp Sentiment Analysis: "https://github.com/karanbabariya/yelpsentimentanalysis"
+    - eBay Competitive Auctions: "https://github.com/karanbabariya/competitiveauctions"
+    - Universal Bank's Marketing Campaign: "https://github.com/karanbabariya/marketingcampaign"
+    - More: "https://github.com/karanbabariya"
+  About Me: "aboutme"
   #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/avatar-icon.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -72,11 +72,11 @@ author:
 social-network-links:
   rss: true
   email: "karan.babariya@rotman.utoronto.ca"
-#  facebook: deanattali
   github: "https://github.com/karanbabariya"
+  linkedin: "https://www.linkedin.com/in/karanbabariya/"
+#  facebook: deanattali
 #  twitter: daattali
 #  reddit: yourname
-   linkedin: "https://www.linkedin.com/in/karanbabariya/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
