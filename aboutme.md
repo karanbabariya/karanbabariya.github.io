@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Thanks for dropping by! :)
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+####My name is Karan Babariya!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a current [Masters of Management Analytics](https://www.rotman.utoronto.ca/Degrees/MastersPrograms/MMA), 2020 student at Rotman School of Management. Prior to joining Rotman, I worked as a Senior Member Technical Staff (Full Stack Web Developer) at Mentor - A Siemens Business where I was a part of product development wing of Capital Suite, driven to provide solutions to automotive industry for designing wiring harnesses in vehicles. 
+Having realized the potential of analytics and its immense benefits to the industry I now carry deep interests for the field in my pockets. I am a huge fan of extracting stories out of data and in my spare time I enjoy solving data science challenges for subjects that matter. My interests lies in exploring new places and adventures, motorbiking and voluteering pet shelter.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
