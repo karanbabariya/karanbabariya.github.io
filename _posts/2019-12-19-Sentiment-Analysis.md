@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yelp reviews Sentiment Ananlysis
+title: Yelp reviews Sentiment Analysis
 ---
 
 Scraped over 5000 reviews and star ratings of various Toronto restaurants as training data for a simple Naive Bayes classifier to do sentiment analysis into two positive and negative classes by using Yelp Fusion API Web Scraping Scraped the content from the business URLs obtained from the Yelp Fusion's business API. Once the URLs are obtained, iterate through all the restaurants' response objects to fetch reviews and star ratings. The limit of 50 restaurants and 100 reviews per restaurant is kept to prevent overloading of public website. A total of 5000 reviews has been fetched. 
