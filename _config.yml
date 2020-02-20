@@ -22,6 +22,7 @@ description: Data beats emotions!
 navbar-links:
   Blog: "https://karanbabariya.github.io/"
   Projects: 
+    - Data Visualization: "https://public.tableau.com/profile/karan.babariya#!/vizhome/FinalStory_15821603345420/MalawiNationalBank"
     - Yelp Sentiment Analysis: "https://github.com/karanbabariya/yelpsentimentanalysis"
     - eBay Competitive Auctions: "https://github.com/karanbabariya/competitiveauctions"
     - Universal Bank's Marketing Campaign: "https://github.com/karanbabariya/marketingcampaign"
